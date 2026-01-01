@@ -1,0 +1,14 @@
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\ProjetoCadastroPokemons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\ProjetoCadastroPokemons.AssemblyInfoInputs.cache
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\ProjetoCadastroPokemons.AssemblyInfo.cs
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\ProjetoCadastroPokemons.csproj.CoreCompileInputs.cache
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\bin\Debug\net10.0\ProjetoCadastroPokemons.exe
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\bin\Debug\net10.0\ProjetoCadastroPokemons.deps.json
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\bin\Debug\net10.0\ProjetoCadastroPokemons.runtimeconfig.json
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\bin\Debug\net10.0\ProjetoCadastroPokemons.dll
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\bin\Debug\net10.0\ProjetoCadastroPokemons.pdb
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\ProjetoCadastroPokemons.dll
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\refint\ProjetoCadastroPokemons.dll
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\ProjetoCadastroPokemons.pdb
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\ProjetoCadastroPokemons.genruntimeconfig.cache
+C:\Users\Seu Computador\Desktop\Projeto cadastro de pokemons\obj\Debug\net10.0\ref\ProjetoCadastroPokemons.dll
